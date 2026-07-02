@@ -1,1 +1,5 @@
+![Visual Studio 2019](https://img.shields.io/badge/Visual%20Studio-2019-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ASP.NET MVC 6](https://img.shields.io/badge/ASP.NET%20MVC%206-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
